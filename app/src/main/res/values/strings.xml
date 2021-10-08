@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hee Test</string>
+    <string name="sdt">Nhập số điện thoại: 0906xxxxxx</string>
+    <string name="password">Nhập mật khẩu</string>
+</resources>
